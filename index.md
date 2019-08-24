@@ -1,37 +1,45 @@
 ## 裴某
 
-You can use the [editor on GitHub](https://github.com/BossZihang/bosszhipin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+性别：男
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+学历：硕士
 
-### Markdown
+专业：计算机
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+留学国家：法国
 
-```markdown
-Syntax highlighted code block
+联系渠道：linkedin
 
-# Header 1
-## Header 2
-### Header 3
+学校：INSA Renne
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+##### 请问你已经就业了嘛？
+是的
 
-**Bold** and _Italic_ and `Code` text
+#####请问你从事什么行业？
+工程师，打代码的那一种
 
-[Link](url) and ![Image](src)
-```
+#####你找到的工作是在海外还是国内的？
+我在法国的的本科和硕士，现在在法国工作。不过之前实习在国内，可以说有两边的经验
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#####你觉得国内就业和国外就业各有什么好处和坏处呢
+我是一名程序员，全栈程序员，在法国程序员的工资也没有特别高，但是待遇要比国内好。国内也有很多公司给的薪水很高，但是加班情况比较严重。但是其实就业机会都挺多的。我接受不了加班大的工作就 毕业后选择留在国外工作。
 
-### Jekyll Themes
+#####那你觉得留学生在回国就业有什么优势和劣势？
+老实说我觉得读金融经济方面专业的出国留学能有一些光环加持，毕竟眼界能拓宽许多，也能接受很多不一样的思考方式和知识。而对于其他专业的留学生，跨国企业的公司也会优先选择有留学经验的学生。劣势也是很明显的，国内很多就业机会都是内部消化的，这样的甜头留学生就很难吃到。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BossZihang/bosszhipin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#####你觉得留学生和国内学生，在相同能力的条件下，哪一种学生更受企业青睐？
+我也不清楚，长远来看，这个要看企业吧。国内学生人脉比留学生广
 
-### Support or Contact
+#####现在国内的经济形势不错也有不少的留学生回国工作，你有什么给留学生建议？
+要有自信
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#####您对回国创业怎么看？
+最好可以针对两国之间有发展差异的产业进行创业
+
+
+#####您上一次实习时通过什么渠道找到工作的？
+在Boss直聘上投简历
+
+#####您觉得有必要为留学生开辟一条渠道来帮助他们就业吗？如果需要，关键点在哪里？
+需要的，本来留学生很少有回国工作的资源，现在国内经济形势好，这个需求就高。留学生大多是硕士以上学历的，通常就业要求会高一点。
